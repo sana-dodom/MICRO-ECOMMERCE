@@ -1,5 +1,5 @@
 {
-  "name": "MICRO-ECOMMERCE",
+  "name": "micro-commerce",
   "private": true,
   "scripts": {
     "build": "turbo run build",
