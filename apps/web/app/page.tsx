@@ -94,7 +94,7 @@ export default function Home() {
             width={16}
             height={16}
           />
-          Go to turborepo.dev →
+          Go to my turborepo.dev →
         </a>
       </footer>
     </div>
